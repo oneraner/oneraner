@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 知遠 Jeff</h1>
-<h3 align="center">A frontend developer from Taipei</h3>
+<h3 align="center">A Senior frontend programmer from Taipei</h3>
 
 - 📝 I regularly write articles on [https://oneraner.blogspot.com/](https://oneraner.blogspot.com/)
 
-- 💬 Ask me about **React.js and Vue.js**
+- 💬 Ask me about **React.js and Next.js**
 
 - 📫 How to reach me **oneraner@gmail.com**
 
